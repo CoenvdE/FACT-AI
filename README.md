@@ -6,4 +6,3 @@ This project aims to reproduce the findings of the paper "LICO: Explainable Mode
 the notebooks are can be run in colab for a complete overview.
 
 The rest of the files can be run together to train the models properly.
-
